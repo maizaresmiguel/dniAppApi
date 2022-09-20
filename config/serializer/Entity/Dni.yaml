@@ -1,0 +1,26 @@
+App\Entity\Dni:
+  attributes:
+    id:
+      groups: ['dni']
+    idTramite:
+      groups: ['dni']
+    apellido:
+      groups: ['dni']
+    nombre:
+      groups: ['dni']
+    sexo:
+      groups: ['dni']
+    dni:
+      groups: ['dni']
+    fechaNacimiento:
+      groups: ['dni']
+    fechaTramite:
+      groups: ['dni']
+    codigo:
+      groups: ['dni']
+    fechaAlta:
+      groups: ['dni']
+    usuario:
+      groups: ['dni']
+    destinos:
+      groups: ['dni']

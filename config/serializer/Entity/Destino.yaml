@@ -1,0 +1,14 @@
+App\Entity\Destino:
+  attributes:
+    id:
+      groups: ['dni']
+    oficina:
+      groups: ['dni']
+    nombre:
+      groups: ['dni']
+    descripcion:
+      groups: ['dni']
+    fechaMovimiento:
+      groups: ['dni']
+    usuario:
+      groups: ['dni']
